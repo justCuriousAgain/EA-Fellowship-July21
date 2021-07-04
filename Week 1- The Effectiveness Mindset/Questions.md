@@ -1,3 +1,7 @@
 # Questions
 
 * Can we really say all lives are equal? For instance, if one person is the PM of a country, while the other is an ordinary citizen, and we can save only one. Shouldn't the 2nd order effects of the PM dying be taken into account?
+
+* In terms of the actions we take, is it creating a flywheel? Like a data flywheel in the Machine Learning domain
+
+* How would someone who's donated know what happened of their money? Blockchain solutions? Smart contracts?
