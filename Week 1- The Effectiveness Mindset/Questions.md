@@ -5,3 +5,9 @@
 * In terms of the actions we take, is it creating a flywheel? Like a data flywheel in the Machine Learning domain
 
 * How would someone who's donated know what happened of their money? Blockchain solutions? Smart contracts?
+
+* How do we determine who to trust?
+
+* If we're treating this equivalent to how we invest in stocks, then we also should take into account that stock prices are highly speculative in nature, and the kind of shady malpractices that occur in the corporate world
+
+* Cost per life saved is a bit shady to me. How does it work? Do people in healthcare really calculate this way? Also, it certainly seems like a reasonable tool, but the calculation is oversimplified. Find some counter examples.
