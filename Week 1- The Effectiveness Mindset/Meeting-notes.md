@@ -36,3 +36,14 @@
     * Say a doctor makes the call on who to save based on his/her gut feeling, this effectively creates a precedent for other juniors on how to act in a crucial situation, and if everyone just starts acting on their gut feeling, it can potentially cripple the entire healthcare system
   * But this calculation should also take into account 2nd order effects. For instance, if you let the sole breadwinner of a family die, to save another person, the whole family might end up in poverty.
   * Also, at times, you need to keep emotions into account as well. For instance, if an action of yours leads yourself into mental health issues later, then that's a bigger cost. If you're not well yourself, you might do more harm than good to others.
+
+### Is this area neglected? Is this relevant?
+
+* We should understand first why is this neglected?
+  * Intractability?
+  * High costs?
+  * Not cool enough?
+  * Communication barriers? Do we understand the problem well? - Example - PlayPump. They went so long without understanding if they were solving the right problem?
+* Assuming these factors have been taken care of, there are atleast 2 reasons why it's a good idea to go for neglected problems:
+  * Margin value addition is higher
+  * We can spend some time exploring the space of potential solutions, understanding the problem better, instead of jumping to the first solution that comes to sight
