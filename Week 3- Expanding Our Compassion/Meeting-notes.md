@@ -36,6 +36,7 @@
   * Take the example of North Korea. A lady who fled and survived mentioned she didn't know something like Freedom existed. How would you think about suffering for them
 * Suicides and Euthanasia - Does any animal have the capacity to value or devalue their own life? For instance, do we know of any animals that at some point decides that it's no point living, and commits suicide
 * Can we think of a better way to employ them other than food (eating dogs vs dogs as pets or sniffer dogs) that'd reduce their suffering and change their perception in society? But then what's to stop people from creating genetically modified variants that could be catastrophic.
+* Can we explore scenarios where we can exist in synergy with other creatures instead of necessarily exploiting them in some way
 
 ### Letter to self Exercise
 
