@@ -47,3 +47,9 @@
 * Assuming these factors have been taken care of, there are atleast 2 reasons why it's a good idea to go for neglected problems:
   * Margin value addition is higher
   * We can spend some time exploring the space of potential solutions, understanding the problem better, instead of jumping to the first solution that comes to sight
+
+### Relevant links
+
+* Refugee-cash-assistance: <https://www.unhcr.org/news/stories/2019/12/5b6c40f04/cash-assistance-gives-refugees-power-choice.html#:~:text=UNHCR%20is%20expanding%20cash%2Dbased,widow%20Manar%20Al%20Sayer%2C%2029>.
+* Dead Aid: Why Aid is not working and how's there a better way for Africa by Dambisa Moyo
+* Perfect Memory: <https://www.youtube.com/watch?v=hpTCZ-hO6iI&ab_channel=60MinutesAustralia>
